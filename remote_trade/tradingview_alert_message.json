@@ -1,0 +1,15 @@
+{
+
+"passphrase": "YOUR_SECRET_TRADINGVIEW_PHRASE",
+
+"symbol": "BNB/USDT:USDT",
+
+"side": "sell",
+
+"amount": 1.5,
+
+"tp_percent": 3.0,
+
+"sl_percent": 1.5
+
+}
